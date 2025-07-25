@@ -1,1 +1,2 @@
-Hello Git. Xóa phần chỉnh sửa
+
+Hello Git. ok đã cập nhật xong
